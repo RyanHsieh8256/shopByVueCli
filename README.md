@@ -1,24 +1,3 @@
-# todolist-test
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 專案說明
+本專案以vuecli建立，有兩個分頁，一個是商品展示頁面，一個是購物筆記頁面，
+商品展示頁面可看到個商品以卡片式呈現，並可
